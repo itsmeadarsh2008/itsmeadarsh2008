@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript, Electron**
 
-- 👨‍💻 All of my projects are available at [https://github.com/itsmeadarsh2008?tab=repositories&type=source](https://github.com/itsmeadarsh2008?tab=repositories&type=source)
+- 👨‍💻 All of my projects are available at [Repositories Tab!](https://github.com/itsmeadarsh2008?tab=repositories&type=source)
 
 - 💬 Ask me about **Python, JavaScript and much more!**
 
