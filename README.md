@@ -17,6 +17,9 @@
 
 ### My Blog Posts!
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 JavaScript Courses!](https://dev.to/itsmeadarsh/top-5-javascript-courses-22bp)
+- [AdaptJS - The Most Adaptable JavaScript Writing Style!](https://dev.to/itsmeadarsh/adaptjs-the-most-adaptable-javascript-writing-style-4h28)
+- [Eel: The Frontend Like GUI For Python &lpar;HTML &amp;CSS&rpar;](https://medium.com/@itsmeadarsh/eel-the-frontend-like-gui-for-python-html-css-adbc279e1e0a?source=rss-db0a3c839060------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
