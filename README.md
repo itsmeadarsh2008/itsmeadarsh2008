@@ -16,14 +16,11 @@ I'm on reddit, medium & instagram etc.
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 - 🌱 I’m currently learning **React, TypeScript, NeoVim**
-
 - 👨‍💻 All of my projects are available at [Repositories Tab!](https://github.com/itsmeadarsh2008?tab=repositories&type=source)
-
 - 💬 Ask me about **Python, JavaScript and much more!**
-
 - 📫 How to reach me **Huh?**
-
 - ⚡ Fun fact **DEAD MEN TELL NO TALES**
+
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=b0i1ugfsgk5uph8lh3jox118r&width=650)
 
 # 💻 Familiar With
