@@ -1,7 +1,9 @@
 <h1 align="center">
   <img src="https://i.giphy.com/media/AFdcYElkoNAUE/giphy.webp" /><br>
   Hey Folks!<br>
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=itsmeadarsh2008&amp;icon=0&amp;color=11" alt=""></a>
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=People&label=How%20many%20people%20visited%20this%20page%3F&color=9&icon=2&pretty=false" />
+</a>
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
