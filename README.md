@@ -2,9 +2,14 @@
   <img src="https://i.giphy.com/media/AFdcYElkoNAUE/giphy.webp" /><br>
   Hey Folks!<br>
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=itsmeadarsh2008&amp;icon=0&amp;color=11" alt=""></a>
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
 </h1>
 
 I'm on reddit, medium & instagram etc.
+
+
 <p><a href="https://www.instagram.com/thisisnapoleonbonaparte/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
 <a href="https://medium.com/@itsmeadarsh"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Medium"></a> <a href="https://reddit.com/user/RevolutionaryPen4661"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&amp;logo=Reddit&amp;logoColor=white" alt="Reddit"></a> <br>
@@ -21,6 +26,9 @@ I'm on reddit, medium & instagram etc.
 - 📫 How to reach me **Huh?**
 - ⚡ Fun fact **DEAD MEN TELL NO TALES**
 
+  ## 💰 I ain't begging you so do of your own!
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/thisisnapoleon) 
+
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=b0i1ugfsgk5uph8lh3jox118r&width=650)
 
 # 💻 Familiar With
@@ -32,14 +40,5 @@ I'm on reddit, medium & instagram etc.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itsmeadarsh2008&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
-
-  ## 💰 I ain't begging you so do of your own!
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/thisisnapoleon) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
