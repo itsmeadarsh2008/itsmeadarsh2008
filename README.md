@@ -19,10 +19,6 @@ I'm on reddit, medium & instagram etc.
 <a href="https://stackoverflow.com/users/15374214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15374214" height="30" width="40" /></a>
 <a href="https://medium.com/@itsmeadarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@itsmeadarsh" height="30" width="40" /></a>
 </p>
-<div align="center">
-<h3>A Funny Meme 😂</h4>
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-</div>
 
 - 🌱 I’m currently learning **React, TypeScript, NeoVim**
 - 👨‍💻 All of my projects are available at [Repositories Tab!](https://github.com/itsmeadarsh2008?tab=repositories&type=source)
