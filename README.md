@@ -1,19 +1,14 @@
-<div align="center">
-<img src="https://c.tenor.com/Daf-ym8YubwAAAAC/tenor.gif">
-</div>
 
 ###
-
 <br clear="both">
-
+<div align='center'>
 <img src="https://raw.githubusercontent.com/itsmeadarsh2008/itsmeadarsh2008/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/b0i1ugfsgk5uph8lh3jox118r">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=b0i1ugfsgk5uph8lh3jox118r&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+<img src="https://github-profile-trophy.vercel.app/?username=itsmeadarsh2008&theme=nord&column=5" href="https://github.com/ryo-ma/github-profile-trophy">
+</div>
+<div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api?username=itsmeadarsh2008&theme=blueberry&show_icons=true&hide_border=true&count_private=true'></td>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=itsmeadarsh2008&theme=blueberry&hide_border=true'></td>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeadarsh2008&theme=blueberry&show_icons=true&hide_border=true&layout=compact'></td>
 </div>
 
 ###
