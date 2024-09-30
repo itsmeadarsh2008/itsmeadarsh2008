@@ -3,7 +3,7 @@
 <br clear="both">
 <div align='center'>
 <img src="https://raw.githubusercontent.com/itsmeadarsh2008/itsmeadarsh2008/output/snake.svg" alt="Snake animation" />
-<img src="https://github-profile-trophy.vercel.app/?username=itsmeadarsh2008&theme=nord&column=5" href="https://github.com/ryo-ma/github-profile-trophy">
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=itsmeadarsh2008&theme=nord&column=5" href="https://github.com/ryo-ma/github-profile-trophy"> -->
 </div>
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api?username=itsmeadarsh2008&theme=blueberry&show_icons=true&hide_border=true&count_private=true'></td>
