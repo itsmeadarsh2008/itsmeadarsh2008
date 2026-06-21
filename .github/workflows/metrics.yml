@@ -20,6 +20,7 @@ jobs:
           config_twemoji: yes
           config_animations: yes
           config_padding: 10, 10
+          config_display: columns
           filename: metrics.svg
 
           # 📅 Isometric commit calendar
@@ -98,9 +99,9 @@ jobs:
 
           # 🧑‍🤝‍🧑 People
           plugin_people: yes
-          plugin_people_limit: 24
+          plugin_people_limit: 12
           plugin_people_shuffle: yes
-          plugin_people_types: followers, following
+          plugin_people_types: followers
 
           # 📓 Featured repositories
           plugin_repositories: yes
