@@ -20,6 +20,7 @@ jobs:
           config_twemoji: yes
           config_animations: yes
           config_padding: 10, 10
+          filename: metrics.svg
 
           # 📅 Isometric commit calendar
           plugin_isocalendar: yes
